@@ -2,8 +2,10 @@
 
 From git repo dir
 * npm install
-* # I have made some simple changes git clone https://github.com/Netflix/vizceral-example
-  so that an interval occurs
+
+
+* I have made some simple changes git clone https://github.com/Netflix/vizceral-example
+  so that an interval refresh occurs
 
 * cd vizceral-example 
 * npm install
