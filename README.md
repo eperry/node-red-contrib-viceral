@@ -2,6 +2,7 @@
 
 From git repo dir
 * npm install
+* git clone https://github.com/Netflix/vizceral-example
 * cd vizceral-example 
 * npm install
 * ./node_modules/.bin/webpack 
