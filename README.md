@@ -2,7 +2,9 @@
 
 From git repo dir
 * npm install
-* git clone https://github.com/Netflix/vizceral-example
+* # I have made some simple changes git clone https://github.com/Netflix/vizceral-example
+  so that an interval occurs
+
 * cd vizceral-example 
 * npm install
 * ./node_modules/.bin/webpack 
@@ -26,7 +28,7 @@ Admin URL
         See node-red security on how to change the password
 
 Search Endpoint
-* http://localhost:1880/query-elasticsearch
+* http://localhost:1880/sample_data.json
 
 
 # Extra info
